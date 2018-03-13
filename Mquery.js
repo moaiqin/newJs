@@ -1,3 +1,7 @@
+﻿
+
+这里是第二次修改
+
 function addEvent(obj,Event,fn){
      if(obj.attachEvent){
 	        obj.attachEvent('on'+Event,function(ev){
