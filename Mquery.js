@@ -1,7 +1,11 @@
 ﻿
+<<<<<<< HEAD
 
 这里是第二次修改
 
+=======
+这里修改过
+>>>>>>> 3655e0d0fefbab89920b61dc31138d547dc499a5
 function addEvent(obj,Event,fn){
      if(obj.attachEvent){
 	        obj.attachEvent('on'+Event,function(ev){
