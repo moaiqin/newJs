@@ -1,3 +1,4 @@
+﻿这是第三次实验4444444444
 function addEvent(obj,Event,fn){
      if(obj.attachEvent){
 	        obj.attachEvent('on'+Event,function(ev){
